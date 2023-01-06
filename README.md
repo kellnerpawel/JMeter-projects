@@ -1,1 +1,1 @@
-# JMeter-projects
+This folder contains my sample JMeter Projects
